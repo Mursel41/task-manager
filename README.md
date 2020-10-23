@@ -1,4 +1,4 @@
-__- Task Manager Web-Application with React -__
+__Task Manager Web-Application with React__
 
 
 **USED TECHNOLOGIES**
